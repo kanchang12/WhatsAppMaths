@@ -1,26 +1,26 @@
 # Deep learning framework
-torch==2.0.1
+torch
 
 # Transformers library for NLP models
-transformers==4.31.0
+transformers
 
 # Progress bar utility
-tqdm==4.65.0
+tqdm
 
 # Terminal text colorization
-termcolor==2.3.0
+termcolor
 
 # For numerical computations and array handling
-numpy==1.24.3
+numpy
 
 # For dataset handling and preprocessing
-pandas==2.1.1
+pandas
 
 # For creating and managing virtual environments
-virtualenv==20.21.0
+virtualenv
 
 # HTTP requests
-requests==2.31.0
+requests
 
 # For JSON manipulation
-simplejson==3.19.1
+simplejson
